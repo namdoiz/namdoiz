@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nnamdi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate on Ruby 2d
+- 💞️ I’m looking to collaborate on ruby 2d
 - 📫 How to reach me nnamdioon@gmail.com
 
 <!---
