@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnamdi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ruby at [launchschool.com](https://launchschool.com)
+- 🌱 I’m currently learning web development with ruby at [launchschool.com](https://launchschool.com)
 - 💞️ I’m looking to collaborate on ruby projects
 - 📫 How to reach me nnamdioon@gmail.com
 
