@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nnamdi
 - 👀 I’m interested in anything Computers
 - 🌱 Most of the work here is from my time learning software development with ruby at [launchschool.com](https://launchschool.com)
-- 🌱 I’m currently studying Computer Science with the University of Mary-Hardin Baylor
+- 🌱 I’m currently studying Electrical Engineering at Texas Tech University
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me nnamdioon@gmail.com
 
